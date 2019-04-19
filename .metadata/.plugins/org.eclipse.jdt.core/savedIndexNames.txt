@@ -1,5 +1,3 @@
-INDEX VERSION 1.131+/home/connors/java-workspace/.metadata/.plugins/org.eclipse.jdt.core
+INDEX VERSION 1.131+/home/compsci/Desktop/java-workspace/.metadata/.plugins/org.eclipse.jdt.core
 341714158.index
-646308851.index
 1218509610.index
-2964992058.index
