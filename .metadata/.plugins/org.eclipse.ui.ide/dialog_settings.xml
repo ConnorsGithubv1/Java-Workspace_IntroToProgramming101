@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/home/connors/java-workspace/S201AP3"/>
 		<item value="/home/connors/java-workspace/007FindCat-Teacher"/>
 		<item value="/home/connors/java-workspace/DiagnosticsExam"/>
 	</list>
@@ -9,6 +10,9 @@
 		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/home/connors/java-workspace/ArrayView"/>
+			<item value="/home/connors/java-workspace/APQ4"/>
+			<item value="/home/connors/java-workspace/APQ3"/>
 			<item value="/home/connors/java-workspace/007FindCat-Teacher"/>
 			<item value="/home/connors/java-workspace/areatriangle"/>
 		</list>
